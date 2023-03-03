@@ -2,11 +2,12 @@ body {
     
     color: rgb(19, 8, 34);
     text-align: center ;
-    text family: arial;    
-     
+    text family: courier;    
+
 }
 #container{
-    width: 70%; color: rgb(55, 119, 192);
+    
+    width: 70%; color: rgb(190, 192, 55);
     padding: 2cm;
     text-align: left;
     border: 23px solid #5cb882; 
