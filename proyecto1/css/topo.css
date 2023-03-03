@@ -1,21 +1,16 @@
 body {
     
-    color: rgb(19, 8, 34);
+    color: rgb(39, 20, 206);
     text-align: center ;
     text family: courier;    
 
 }
 #container{
-<<<<<<< HEAD
-<<<<<<< HEAD
+
     
     width: 70%; color: rgb(190, 192, 55);
-=======
-    width: 70%; color: rgb(29, 6, 6);
->>>>>>> CABECERA
-=======
-    width: 70%; color: rgb(743, 322, 6);
->>>>>>> CABECERA
+    width: 70%; color: rgb(687, 6, 6);
+
     padding: 2cm;
     text-align: left;
     border: 23px solid #da1da1; 
