@@ -6,11 +6,24 @@ body {
 
 }
 #container{
+<<<<<<< HEAD
     
     width: 70%; color: rgb(190, 192, 55);
+=======
+    width: 70%; color: rgb(29, 6, 6);
+>>>>>>> CABECERA
     padding: 2cm;
     text-align: left;
     border: 23px solid #5cb882; 
     margin: 0 auto;
 
+}
+#CABECERA{
+    background-color: rgb(240, 240, 240); size: 22px 14px 40px 0px;
+   
+    box-shadow: 0px 22px 30px 0px rgb(194, 117, 117);
+    margin: 2%;
+    padding: 0,5em;
+    margin: 0%;
+    font-weight: bold;
 }
