@@ -1,14 +1,12 @@
 body {
     
-    color: rgb(39, 20, 206);
-    text-align: center ;
-    text family: courier;    
+        
 
 }
 #container{
 
     
-    width: 70%; color: rgb(190, 192, 55);
+   
     width: 70%; color: rgb(687, 6, 6);
 
     padding: 2cm;
@@ -18,8 +16,7 @@ body {
 
 }
 #CABECERA{
-    background-color: rgb(240, 240, 240); size: 22px 14px 40px 0px;
-   
+    background: #19eb70 url("proyectos1/img/messi.png");
     box-shadow: 0px 22px 30px 0px rgb(194, 117, 117);
     margin: 2%;
     padding: 0,5em;
